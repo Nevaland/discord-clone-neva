@@ -14,6 +14,8 @@
   background-color: #2f3135;
   color: white;
   border-bottom: 3px solid #26282c;
+
+  -webkit-app-region: drag; /* Temporary Code */
 }
 
 .sidebar__channels {
