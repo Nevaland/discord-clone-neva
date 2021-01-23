@@ -13,7 +13,7 @@
   padding: 20px;
   background-color: #2f3135;
   color: white;
-  border-bottom: 3px solid #26282c;
+  border-bottom: 2px solid #26282c;
 
   -webkit-app-region: drag; /* Temporary Code */
 }
