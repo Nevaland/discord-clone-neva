@@ -5,7 +5,7 @@
 
 .sidebarChannel > h4 {
   display: flex;
-  padding-left: 15px;
+  padding-left: 10px;
   align-items: center;
   background-color: #2f3135;
   color: gray;
@@ -13,6 +13,6 @@
 }
 
 .sidebarChannel__hash {
-  font-size: 30px;
+  font-size: 20px;
   padding: 8px;
 }
