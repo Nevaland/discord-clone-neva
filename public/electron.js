@@ -13,6 +13,7 @@ function createWindow() {
     frame: false,
     webPreferences: {
       nodeIntegration: true,
+      nativeWindowOpen: true,
       enableRemoteModule: true,
       devTools: isDev,
     },
