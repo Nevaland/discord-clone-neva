@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-However oauth doesn't work in electron.
+However oauth doesn't work in electron.\
 If you wanna use it, you can take the browser.
 
 ## Available Scripts
